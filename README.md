@@ -6,14 +6,13 @@
 <h3 align="center">Doing my pre final year in Kongu Engineering College in Artificial Intelligence and Data science student and fresher with a passion for technology</h3>
 <div align="center">
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="60" height="60" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="60" height="60" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="60" height="60" />
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="60" height="60" />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="60" height="60" />
  
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=srinithi678&label=Profile%20views&color=0e75b6&style=flat" alt="srinithi678" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyacse21&label=Profile%20views&color=0e75b6&style=flat" alt="priyacse21" /> </p>
 
 
 - 🔭 I’m currently working on **Progress**
@@ -38,7 +37,7 @@
 <br><br>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javajs,R" />
+    <img src="https://skillicons.dev/icons?i=java,js,R" />
   </a>
 </p>
 - Frontend
@@ -52,7 +51,7 @@
 <br><br>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+    <img src="https://skillicons.dev/icons?i=nodejs,mongodb" />
   </a>
 </p>
 - Tools
