@@ -61,7 +61,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,canva,excel" />
   </a>
-    <img src="https://github.com/marclelijveld/Power-BI-Icons/raw/main/SVG/Power-BI.svg" height='45px' width='45px'/>
+    
 </p>
 -R Studio
 <p align="left">
