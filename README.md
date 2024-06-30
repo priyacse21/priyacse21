@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 ### Hi there 👋
 
@@ -18,11 +18,11 @@
 
 - 🔭 I’m currently working on **Progress**
 
-- 🌱 I’m currently learning **DBMS,Java**
+- 🌱 I’m currently learning **Java,SQL**
 
-- 💬 Ask me about **Machine Learning,Deep Learning**
+- 💬 Ask me about **Web development**
 
-- 📫 How to reach me **srinithia.21aid@kongu.edu**
+- 📫 How to reach me **priyadharshinik.21cse@kongu.edu**
  <br>
 
 <h3 align="left">Connect with me:</h3>
@@ -38,46 +38,38 @@
 <br><br>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,js" />
+    <img src="https://skillicons.dev/icons?i=javajs,R" />
   </a>
 </p>
 - Frontend
 <br><br>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
   </a>
 </p>
 - Backend
 <br><br>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,hadoop" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
   </a>
-</p>
-- AI/ML
-<br><br>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tensorflow,opencv,pytorch" />
-  </a>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/SciKitLearn-Light.svg" height='45px' width='45px'/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" height='45px' width='45px'/>
 </p>
 - Tools
 <br><br>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,postman,figma" />
+    <img src="https://skillicons.dev/icons?i=git,canva,excel" />
   </a>
     <img src="https://github.com/marclelijveld/Power-BI-Icons/raw/main/SVG/Power-BI.svg" height='45px' width='45px'/>
 </p>
--Game Engine
+-R Studio
 <p align="left">
   <a href="https://skillicons.dev">
   </a>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Unity-Dark.svg" height='45px' width='45px'/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/R-Dark.svg" height='45px' width='45px'/>
 </p>
+
 
 
 
