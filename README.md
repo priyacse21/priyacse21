@@ -6,6 +6,7 @@
 <h3 align="center">Doing my pre final year in Kongu Engineering College in Artificial Intelligence and Data science student and fresher with a passion for technology</h3>
 <div align="center">
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="60" height="60" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="60" height="60" />
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="60" height="60" />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="60" height="60" />
@@ -37,7 +38,7 @@
 <br><br>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,R" />
+    <img src="https://skillicons.dev/icons?i=java,js,r" />
   </a>
 </p>
 - Frontend
