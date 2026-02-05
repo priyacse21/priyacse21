@@ -22,7 +22,7 @@
 
 - 💬 Ask me about **Web development**
 
-- 📫 How to reach me **priyadharshinik.21cse@kongu.edu**
+- 📫 How to reach me **priyakaruppasamy2003@gmail.com**
  <br>
 
 <h3 align="left">Connect with me:</h3>
